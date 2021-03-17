@@ -14,9 +14,9 @@ Theme edited and adapted by **Szalik** for rg351p/m 351ELEC community.
 
 ---
 
-### Fork Description
+# Fork Description
 
-# OGA Minimal
+### OGA Minimal
 A minimalist theme for EmulationStation on the Odroid Go Advance. Built on the back of lilbud's amazing [Minimal Theme for RetroPie](https://github.com/lilbud/es-theme-minimal).
 
 ### Change Background
