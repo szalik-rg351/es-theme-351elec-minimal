@@ -26,7 +26,7 @@ license: creative commons CC-BY-NC-SA
 		</helpsystem>
 		
 		<image name="logo">
-			<path>./../art/png/${system.theme}.png</path>
+			<path>./../art/${system.theme}.svg</path>
 		</image>
 	
 	</view>
